@@ -1,0 +1,9 @@
+Steps to run this project:
+1. Install java in our system.
+2. install oracle database in our system
+3. make table mycart and then 
+3. compile and run mycart file:
+	3.1 for compile = javac mycart.java
+	3.2 for run = java mycart   in cmd.
+
+thanks :)
